@@ -209,10 +209,10 @@
  },
 "sonic-vs.img.gz": {
   "url": "",
-  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=null&view=results",
+  "build-url": "https://dev.azure.com/mssonic/build/_build/results?buildId=&view=results",
  "diff": "https://github.com/Azure/sonic-buildimage/compare/null...null",
-  "build": "null",
-  "date": ""
+  "build": "",
+  "date": "null"
  },
 "sonic-innovium.bin": {
   "url": "",
